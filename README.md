@@ -14,6 +14,8 @@ Current issues:
 
 Build with Visual Studio 2022 with C/C++ workload.
 
+![Screenshot of v0.1.0](assets/screenshot_v0.1.0.png)
+
 On entering game, you will be prompted to make edits to an preloaded maze map. This mode is named "*EDIT mode*". The following controls are available:
 
 * `q`: Quit "EDIT mode"
