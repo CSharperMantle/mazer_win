@@ -99,6 +99,7 @@
       <ExternalWarningLevel>TurnOffAllWarnings</ExternalWarningLevel>
       <ControlFlowGuard>Guard</ControlFlowGuard>
       <EnableEnhancedInstructionSet>AdvancedVectorExtensions</EnableEnhancedInstructionSet>
+      <ExceptionHandling>false</ExceptionHandling>
     </ClCompile>
     <Link>
       <SubSystem>
@@ -123,6 +124,8 @@
       <ExternalWarningLevel>TurnOffAllWarnings</ExternalWarningLevel>
       <ControlFlowGuard>Guard</ControlFlowGuard>
       <EnableEnhancedInstructionSet>AdvancedVectorExtensions</EnableEnhancedInstructionSet>
+      <ExceptionHandling>false</ExceptionHandling>
+      <DebugInformationFormat>None</DebugInformationFormat>
     </ClCompile>
     <Link>
       <SubSystem>
@@ -147,6 +150,7 @@
       <ExternalWarningLevel>TurnOffAllWarnings</ExternalWarningLevel>
       <ControlFlowGuard>Guard</ControlFlowGuard>
       <EnableEnhancedInstructionSet>AdvancedVectorExtensions</EnableEnhancedInstructionSet>
+      <ExceptionHandling>false</ExceptionHandling>
     </ClCompile>
     <Link>
       <SubSystem>
@@ -171,6 +175,8 @@
       <ExternalWarningLevel>TurnOffAllWarnings</ExternalWarningLevel>
       <ControlFlowGuard>Guard</ControlFlowGuard>
       <EnableEnhancedInstructionSet>AdvancedVectorExtensions</EnableEnhancedInstructionSet>
+      <ExceptionHandling>false</ExceptionHandling>
+      <DebugInformationFormat>None</DebugInformationFormat>
     </ClCompile>
     <Link>
       <SubSystem>
