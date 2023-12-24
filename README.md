@@ -2,6 +2,8 @@
 
 Solve any 20-by-20 maze interactively.
 
+![Screenshot of v0.1.0](assets/screenshot_v0.1.0.png)
+
 Windows-compatible port of [CSharperMantle/mazer](https://github.com/CSharperMantle/mazer), the assignment 2.2 for HDU 2023 fall course *Preliminary Program Designing and Algorithms*.
 
 This fork is based on commit [`CSharperMantle/mazer@31e9e11587c732e58255d23b0d73d9eee1563585`](https://github.com/CSharperMantle/mazer/commit/31e9e11587c732e58255d23b0d73d9eee1563585) from the original repository. This repo is only used as a proof-of-concept of curses-interop on Windows, so it will not receive any further updates. **See the original [CSharperMantle/mazer](https://github.com/CSharperMantle/mazer) repo for course reports and relevant updates.**
@@ -13,8 +15,6 @@ Current issues:
 ## How to play?
 
 Build with Visual Studio 2022 with C/C++ workload.
-
-![Screenshot of v0.1.0](assets/screenshot_v0.1.0.png)
 
 On entering game, you will be prompted to make edits to an preloaded maze map. This mode is named "*EDIT mode*". The following controls are available:
 
